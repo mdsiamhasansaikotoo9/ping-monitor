@@ -1,0 +1,7 @@
+# One target per line. Lines starting with # are ignored.
+# Plain names or IPs are checked with ping.
+# Addresses starting with http:// or https:// are checked by loading the page.
+
+google.com
+1.1.1.1
+https://www.wikipedia.org
